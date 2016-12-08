@@ -9,5 +9,6 @@
     <Grid>
         <TextBlock>Ben bir metinim</TextBlock>
         <TextBlock>Ben bir metinim</TextBlock>
+             <TextBlock>Ben bir metinim</TextBlock>
     </Grid>
 </Window>
