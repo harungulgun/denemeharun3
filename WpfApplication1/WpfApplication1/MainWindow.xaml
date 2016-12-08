@@ -8,5 +8,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <TextBlock>Ben bir metinim</TextBlock>
+        <TextBlock>Ben bir metinim</TextBlock>
     </Grid>
 </Window>
